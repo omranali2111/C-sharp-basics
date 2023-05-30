@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\bin\Debug\net6.0\C-sharp-basics.exe
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\bin\Debug\net6.0\C-sharp-basics.deps.json
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\bin\Debug\net6.0\C-sharp-basics.runtimeconfig.json
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\bin\Debug\net6.0\C-sharp-basics.dll
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\bin\Debug\net6.0\C-sharp-basics.pdb
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.AssemblyInfo.cs
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.dll
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\refint\C-sharp-basics.dll
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.pdb
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\C-sharp-basics.genruntimeconfig.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-basics\C-sharp-basics\obj\Debug\net6.0\ref\C-sharp-basics.dll
